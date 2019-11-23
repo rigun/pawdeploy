@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["view-mainView-vue"],{3672:function(e,n,t){"use strict";t.r(n);var i=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div")},u=[],l=t("2877"),a={},c=Object(l["a"])(a,i,u,!1,null,null,null);n["default"]=c.exports}}]);
+//# sourceMappingURL=view-mainView-vue.8a8fdd0e.js.map

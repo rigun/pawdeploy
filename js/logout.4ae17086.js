@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["logout"],{"69a2":function(e,t,o){"use strict";o.r(t);var n=function(){var e=this,t=e.$createElement,o=e._self._c||t;return o("div")},u=[],l=o("4360"),r={mounted:function(){localStorage.removeItem("token"),l["a"].commit("logoutUser"),this.$router.push({name:"Login"})}},a=r,c=o("2877"),i=Object(c["a"])(a,n,u,!1,null,null,null);t["default"]=i.exports}}]);
+//# sourceMappingURL=logout.4ae17086.js.map
